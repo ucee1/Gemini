@@ -1,0 +1,5 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C4065T4VE57P75FJO57G").setAdvancedMatchingAvailableProperties({"email":false,"phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C4065T4VE57P75FJO57G").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C4065T4VE57P75FJO57G").setPixelInfo({status: 0, name: "Gemini Pixel - Developer", advertiserID: "6976309214905925634", setupMode: 1, partner: "", is_onsite: false, enableAutoAM: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("gemini.com");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);

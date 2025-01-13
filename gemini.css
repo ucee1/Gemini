@@ -1,0 +1,136 @@
+h1{
+    font-size: 60px;
+}
+.anchor-bt{
+    border-radius: 25px;
+    padding: 10px 25px 10px 25px;
+}
+.sm2 a{
+    text-decoration: none;
+    float: right;
+    margin-right: 40px;
+    padding-top: 10px;
+    color: grey;
+}
+h2{
+    font-size: 29px;
+}
+h3{
+    font-size: 40px;
+    color: black;
+}
+h4{
+    font-size: 40px;
+    color: black;
+    font-family: montserrat;
+}
+h5{
+    font-size: 40px;
+    font-weight: bold;
+}
+h6{
+    font-size: 40px;
+    font-family: arial;
+    font-weight: bold;
+}
+.join{
+    border-radius: 35px;
+    padding: 15px 45px 15px 45px;   
+    font-weight:bold;
+    border: 3px solid;
+}
+.join:hover{
+    color: black;
+    background-color: silver;
+}
+.row1{
+    line-height: 25px;
+    font-family: montserrat;
+}
+.bg{
+    background-color: #d0cdd2;
+}
+.homepage{
+    height: 350px;
+    width: 350px;
+    float:right;
+    /* align-items: center; */
+}
+.small2{
+    font-size:12px;
+}
+.lm{
+    border-radius: 35px;
+    padding: 15px 45px 15px 45px; 
+    border: 3px solid;
+    font-weight: bold;
+}
+.rate{
+    font-family: montserrat;
+}
+.row2{
+    font-family: arial;
+    font-size: 16px;
+}
+.row2 a{
+    color: black;
+}
+.trader{
+    font-family: arial;
+    font-size: 20px;
+}
+.started{
+    border-radius: 30px;
+    background-color: cyan;
+    color: black;
+    font-weight: bold;
+    padding: 15px 35px 15px 35px; 
+}
+.other{
+    font-size: 20px;
+}
+.get-started{
+    display: none;
+}
+.sub{
+    border-radius: 35px;
+    padding: 15px 20px 15px 20px; 
+    border: 3px solid;
+    font-weight: bold;
+}
+.inpt{
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid silver;
+    width: 40%;
+    padding: 5px;
+}
+.row5{
+    font-size: 11px;
+    color: grey;
+}
+.row5 a{
+    text-decoration:underline;
+    color: grey;
+}
+.row4{
+    font-size: 13px;
+}
+.row4 p{
+    font-weight: bold;
+    font-family: arial;
+}
+.row4 li{
+    list-style-type:none ;
+    line-height: 30px;
+    font-family: arial;
+}
+.row4 li a{
+    text-decoration: none;
+    color: grey;
+}
+.row4 li a:hover{
+    text-decoration: underline;
+    text-underline-offset:5px;
+    text-decoration-thickness:3px;
+}
